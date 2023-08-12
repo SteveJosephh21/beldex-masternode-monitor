@@ -1,0 +1,19 @@
+The Beldex Masternode Monitor Application provides you all the information that you need about your Beldex masternode. It helps you effectively monitor your masternodes and the rewards you’ve earned.To use the Beldex MN Monitor App, use your public key to add the corresponding masternode to the app. You can add as many masternodes as you like.
+Following are the information provided by the Beldex MN Monitor App,
+Last Reward Height: The last reward height shows the last block height at which your masternode was rewarded. The Beldex masternodes are rewarded based on the reward queue.
+Last Uptime Proof: The Last Uptime Proof shows the last block height or time at which proof of uptime (masternode’s online status) was updated with the network.
+Earned Downtime Blocks (Block Credits): Block credits help the masternode to submit proof of uptime within the earned credit period if it has entered the decommissioned state. Thus, higher block credits prevent deregistration of the node.
+Block credits are credited to the masternode based on their contribution to the network. The longer a masternode has been online in the network, the higher is its block credit.
+Checkpoints: Check points are blocks at which the history of the chain was recorded. Checkpoints ensure that the Beldex Network Remains Immutable.
+IP Address of the Masternode: The static IP address of the Masternode server is displayed. If the IP address is changed in case the operator decides to move the masternode to a different server, the change in IP will reflect here.
+Public Key of the Masternode: The masternode public key is used to identify your masternode. It is your unique masternode identifier.
+Node Operators Wallet Address: A masternode may have multiple collaborators who share a stake in the collateral. The wallet address of the staker who runs the masternode is shown here.
+Staker’s Wallet Address and % of Stake: The stake of the masternode operator and their % of stake is displayed.
+Swarm ID: Masternodes on the network are categorized into swarms that are picked at random. The Swarm ID of the masternode represents the swarm to which your masternode belongs.
+Registration Height: This is the block height at which your masternode was registered onto the Beldex network.
+Last State Change Height: The height at which the masternode was last decommissioned or recommissioned.
+Node / Storage Server / BelNet Version: The version of node, storage server, and BelNet is shown here. Ensure that you’re running the latest versions.
+Registration Hardfork Version: The version of the network in which the masternode was initially registered.
+Support: For any queries about the Beldex Masternode Monitor App, reach out to us at support@beldex.io 
+Contribution: You can contribute to the development of the application here: https://www.beldex.io/beldex-contributor.html 
+Follow us on Twitter (@beldexcoin) and Telegram (@official_beldex).

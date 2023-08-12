@@ -1,0 +1,32 @@
+﻿These Terms govern the access and use of the MN Monitor app. Each time the user accesses the MN Monitor application, they irrevocably agree to comply with these Terms posted on this app. If the user does not agree to any of the provisions set out in these Terms, they should not use the app or any of the services available on the app.
+The Services (MN Monitor App) provided on the MN Monitor app are administered and maintained by Beldex. MN Monitor App is an app for informational purposes about your Beldex Masternode.
+
+Eligibility
+You represent and warrant that you: (a) are of legal age to use the MN Monitor App; (b) have not previously been suspended or removed from using our Service (applications and websites by Beldex International); and (c) have full power and authority to enter into this agreement and in doing so will not violate any other agreement to which you are a party. If you are using the App on behalf of a legal entity, you further represent and warrant that (i) such legal entity is duly organized and validly existing under the applicable laws of the jurisdiction of its organization, and (ii) you are duly authorized by such legal entity to act on its behalf.
+
+Use of the Beldex MN Monitor App:
+The MN Monitor app will strive to ensure accuracy of information about Masternodes, although it will not hold any responsibility for any missing or wrong information about the Masternodes. Users understand and acknowledge that they are using any and all information available on the Website at their own risk.
+
+Risks Related to the Use of the Beldex MN Monitor App
+Beldex does not endorse or provide any investment or financial advice. All information provided on the MN Monitor App is to facilitate the user to arrive at independent decisions and conclusions regarding their Masternode and may not be considered or construed as investment, financial or other professional advice.
+
+Investing in a Digital Asset is risky at any given time, and the values of such assets may rise and fall because of various underlying factors such as derivative or unpredictable risks, market manipulation, market volatility, price fluctuation, and actions of a regulatory body. Because of such uncertainties, the value of your Digital Assets may sharply increase or decrease or even become valueless.
+
+The user should conduct their own research on how to deal with Digital Assets, evaluate their financial standings and risk tolerance, consult their legal, financial or tax advisors before making investment decisions in Beldex Masternodes. Beldex does not assure the stability of the Digital Assets or its market. In agreeing to use our Services, you wholly acknowledge that you have sufficient knowledge of the Masternodes, of the risks it entails and the professional experience to make financial and investment decisions.
+
+Description of Services
+    - Public key information
+Users provide the public key information about their Masternode to get detailed information on the status of their Masternode on the Beldex network.
+    - No Storage or Transmission of Beldex MN data
+Beldex MN Monitor App does not store or share information about the Masternodes
+    - Accuracy of Information
+Beldex MN Monitor App strives to provide accurate information about the Masternodes but does not guarantee that the information is accurate
+
+MN  Monitor App Privacy Policy
+These terms shall be governed by the privacy policy under (link)
+
+Disclaimer
+The MN Monitor app is for informational purposes only and does not provide any other services. Nothing in this app should be construed as investment advice.
+
+Contact
+Users can share feedback to  support@beldex.io

@@ -1,0 +1,1 @@
+Monitor the status of your Beldex masternode on the go.
